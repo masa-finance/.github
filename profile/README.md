@@ -1,4 +1,4 @@
-<a href="https://developers.masa.finance"><img src="https://i.imgur.com/hsS1oNC.png"/></a>
+<!--<a href="https://developers.masa.finance"><img src="https://i.imgur.com/hsS1oNC.png"/></a>-->
 
 <p align="center">
   Personal Finance Management, DeFi Credit Score, and Uncollaterlized Loans
