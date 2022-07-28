@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <a href="https://developers.masa.finance" target="_blank" rel="noopener">Developer Documentation</a> | <a href="https://discord.gg/HyHGaKhaKs"  target="_blank">Discord</a>
+  <a href="https://developers.masa.finance">Developer Documentation</a> | <a href="https://discord.gg/HyHGaKhaKs">Discord</a>
 </p>
