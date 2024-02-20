@@ -1,9 +1,9 @@
 <a href="https://developers.masa.finance">
-    <img src="https://github.com/masa-finance/.github/blob/3d49428ccdeaaa9a7cc379a94180f07d160c4888/assets/Github%20profile%20v4.jpg"/>
+    <img src="https://i.postimg.cc/28GRKxHg/image.png"/>
 </a>
 
 <p align="center">
-    Soulbound Identity Infrastructure for Developers Building Web3 Communities
+   The World’s Personal Data Network
 </p>
 
 <p align="center">
