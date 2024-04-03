@@ -1,5 +1,5 @@
 <a href="https://developers.masa.finance">
-    <img src="https://i.postimg.cc/28GRKxHg/image.png"/>
+    <img src="https://i.postimg.cc/x8DQ2nNf/Github-New-Tag-Line.png"/>
 </a>
 
 <p align="center">
