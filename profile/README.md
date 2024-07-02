@@ -1,13 +1,15 @@
 <a href="https://developers.masa.finance">
-    <img src="https://i.postimg.cc/x8DQ2nNf/Github-New-Tag-Line.png"/>
+    <img src="https://github.com/masa-finance/issues/assets/56362462/5f9da5c3-6de3-411d-a863-e9242e9ab661"/>
 </a>
 
 <p align="center">
-   The World’s Personal Data Network
+   Fair AI, powered by the people.
 </p>
 
 <p align="center">
-  <i>Own, share, and earn from your data.</i>
+  <i>Masa is a decentralized AI network where people earn by contributing data</i>
+    <br/>
+  <i>Build anything, anywhere with the world’s data.</i>
 </p>
 
 <p align="center">
