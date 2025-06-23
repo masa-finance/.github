@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href="https://developers.masa.finance">Developer Documentation</a>
+    <a href="https://developers.masa.ai">Developer Documentation</a>
     <a href="https://discord.gg/HyHGaKhaKs">Discord</a>
     <a href="https://mobile.twitter.com/getmasafi">Twitter</a>
 </p>
