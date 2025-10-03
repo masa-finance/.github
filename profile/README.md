@@ -3,17 +3,7 @@
 </a>
 
 <p align="center">
-   Fair AI, powered by the people.
-</p>
-
-<p align="center">
-  <i>Masa is a decentralized AI network where people earn by contributing data</i>
-    <br/>
-  <i>Build anything, anywhere with the world’s data.</i>
-</p>
-
-<p align="center">
-    <a href="https://developers.masa.ai">Developer Documentation</a>
-    <a href="https://discord.gg/HyHGaKhaKs">Discord</a>
-    <a href="https://mobile.twitter.com/getmasafi">Twitter</a>
+    Masa has re-branded to Gopher.
+This Github is no longer active.
+Check out our new Github → https://github.com/gopher-lab
 </p>
